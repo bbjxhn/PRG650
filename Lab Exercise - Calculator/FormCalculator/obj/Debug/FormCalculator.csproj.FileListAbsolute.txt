@@ -1,0 +1,13 @@
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\bin\Debug\FormCalculator.exe.config
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\bin\Debug\FormCalculator.exe
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\bin\Debug\FormCalculator.pdb
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.AssemblyReference.cache
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.Form1.resources
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.Properties.Resources.resources
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.GenerateResource.cache
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.CoreCompileInputs.cache
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.exe
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalculator.pdb
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\bin\Debug\LibCalculator.dll
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\bin\Debug\LibCalculator.pdb
+D:\PRG650\Lab Exercise\ConCalculator\FormCalculator\obj\Debug\FormCalc.21D5CA85.Up2Date

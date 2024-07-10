@@ -1,0 +1,6 @@
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\bin\Debug\LibCalculator.dll
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\bin\Debug\LibCalculator.pdb
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\obj\Debug\LibCalculator.csproj.AssemblyReference.cache
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\obj\Debug\LibCalculator.csproj.CoreCompileInputs.cache
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\obj\Debug\LibCalculator.dll
+E:\PRG 650\Lab 2 - Calculator\LibCalculator\obj\Debug\LibCalculator.pdb

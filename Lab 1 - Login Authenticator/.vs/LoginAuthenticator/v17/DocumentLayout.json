@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRG 650\\Lab 1 - Login Authenticator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|E:\\PRG 650\\Lab 1 - Login Authenticator\\formloginauthenticator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|solutionrelative:formloginauthenticator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|E:\\PRG 650\\Lab 1 - Login Authenticator\\formloginauthenticator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|solutionrelative:formloginauthenticator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24147808-D8FE-4187-9D98-51CAAE94896E}|LibLoginAuthenticator\\LibLoginAuthenticator.csproj|E:\\PRG 650\\Lab 1 - Login Authenticator\\libloginauthenticator\\loginauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24147808-D8FE-4187-9D98-51CAAE94896E}|LibLoginAuthenticator\\LibLoginAuthenticator.csproj|solutionrelative:libloginauthenticator\\loginauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|e:\\prg 650\\lab 1 - login authenticator\\formloginauthenticator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733133C8-86E6-40F9-AEC8-267D5D1D5152}|FormLoginAuthenticator\\FormLoginAuthenticator.csproj|solutionrelative:formloginauthenticator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Program.cs",
+              "RelativeDocumentMoniker": "FormLoginAuthenticator\\Program.cs",
+              "ToolTip": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Program.cs",
+              "RelativeToolTip": "FormLoginAuthenticator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:05:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Form1.cs",
+              "RelativeDocumentMoniker": "FormLoginAuthenticator\\Form1.cs",
+              "ToolTip": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Form1.cs*",
+              "RelativeToolTip": "FormLoginAuthenticator\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:37:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginAuthenticator.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab 1 - Login Authenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "RelativeDocumentMoniker": "LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "ToolTip": "E:\\PRG 650\\Lab 1 - Login Authenticator\\LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "RelativeToolTip": "LibLoginAuthenticator\\LoginAuthenticator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:02:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Form1.cs",
+              "RelativeDocumentMoniker": "FormLoginAuthenticator\\Form1.cs",
+              "ToolTip": "E:\\PRG 650\\Lab 1 - Login Authenticator\\FormLoginAuthenticator\\Form1.cs [Design]*",
+              "RelativeToolTip": "FormLoginAuthenticator\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:37:38.754Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

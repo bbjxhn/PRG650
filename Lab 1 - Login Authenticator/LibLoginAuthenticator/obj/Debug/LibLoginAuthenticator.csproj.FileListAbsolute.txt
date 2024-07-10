@@ -1,0 +1,6 @@
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.dll
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.pdb
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.AssemblyReference.cache
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.CoreCompileInputs.cache
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.dll
+D:\PRG 650\Lab 1 - Login Authenticator\ConLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.pdb

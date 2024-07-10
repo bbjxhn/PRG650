@@ -1,0 +1,10 @@
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\obj\Debug\ConCalculator.csproj.AssemblyReference.cache
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\obj\Debug\ConCalculator.csproj.CoreCompileInputs.cache
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\bin\Debug\ConCalculator.exe.config
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\bin\Debug\ConCalculator.exe
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\bin\Debug\ConCalculator.pdb
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\bin\Debug\LibCalculator.dll
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\bin\Debug\LibCalculator.pdb
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\obj\Debug\ConCalcu.DFCA520A.Up2Date
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\obj\Debug\ConCalculator.exe
+D:\PRG650\Lab Exercise\ConCalculator\ConCalculator\obj\Debug\ConCalculator.pdb

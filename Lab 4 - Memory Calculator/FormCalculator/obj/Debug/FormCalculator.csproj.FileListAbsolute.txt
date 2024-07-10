@@ -1,0 +1,26 @@
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\bin\Debug\FormCalculator.exe.config
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\bin\Debug\FormCalculator.exe
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\bin\Debug\FormCalculator.pdb
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\bin\Debug\LibCalculator.dll
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\bin\Debug\LibCalculator.pdb
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.AssemblyReference.cache
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.Form1.resources
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.Properties.Resources.resources
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.GenerateResource.cache
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.CoreCompileInputs.cache
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalc.21D5CA85.Up2Date
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.exe
+E:\PRG 650\Lab 2 - Calculator\FormCalculator\obj\Debug\FormCalculator.pdb
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\bin\Debug\FormCalculator.exe.config
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\bin\Debug\FormCalculator.exe
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\bin\Debug\FormCalculator.pdb
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\bin\Debug\LibCalculator.dll
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\bin\Debug\LibCalculator.pdb
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.AssemblyReference.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.Form1.resources
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.Properties.Resources.resources
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.GenerateResource.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalc.21D5CA85.Up2Date
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.exe
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 4 - Memory Calculator\FormCalculator\obj\Debug\FormCalculator.pdb

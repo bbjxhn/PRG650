@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|c:\\users\\jmtri\\desktop\\prg 650\\lab 5 - robot\\lab 5 - robot\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\lab 5 - robot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\ChildRobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:Lab 5 - Robot\\ChildRobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\lab 5 - robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\lab 5 - robot\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\lab 5 - robot\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\lab 5 - robot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF462AAD-655B-4C8B-B2A1-D65DA18C4542}|Lab 5 - Robot\\Robot.csproj|solutionrelative:lab 5 - robot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Form1.resx",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.resx",
+              "RelativeToolTip": "Lab 5 - Robot\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T14:24:24.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab 5 - Robot\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:24:20.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Program.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Program.cs",
+              "RelativeToolTip": "Lab 5 - Robot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:24:11.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildRobot.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\ChildRobot.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\ChildRobot.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\ChildRobot.cs",
+              "RelativeToolTip": "Lab 5 - Robot\\ChildRobot.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:23:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Robot.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Robot.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Robot.cs",
+              "RelativeToolTip": "Lab 5 - Robot\\Robot.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:55:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Form1.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.cs",
+              "RelativeToolTip": "Lab 5 - Robot\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:40:49.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab 5 - Robot\\Form1.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\PRG 650\\Lab 5 - Robot\\Lab 5 - Robot\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T02:23:27.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\bin\Debug\FormLoginAuthenticator.exe.config
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\bin\Debug\FormLoginAuthenticator.exe
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\bin\Debug\FormLoginAuthenticator.pdb
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\bin\Debug\LibLoginAuthenticator.dll
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\bin\Debug\LibLoginAuthenticator.pdb
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.csproj.AssemblyReference.cache
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.Properties.Resources.resources
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.csproj.GenerateResource.cache
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.csproj.CoreCompileInputs.cache
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLogi.06E75BAE.Up2Date
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.exe
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.pdb
+D:\PRG 650\Lab 1 - Login Authenticator\FormLoginAuthenticator\obj\Debug\FormLoginAuthenticator.LoginAuthenticator.resources

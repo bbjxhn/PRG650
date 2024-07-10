@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\jmtri\\onedrive\\desktop\\prg 650\\lab 3 - customer maintenance\\customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\jmtri\\onedrive\\desktop\\prg 650\\lab 3 - customer maintenance\\customermaintenance\\frmaddcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\jmtri\\onedrive\\desktop\\prg 650\\lab 3 - customer maintenance\\customermaintenance\\customerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\jmtri\\onedrive\\desktop\\prg 650\\lab 3 - customer maintenance\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\jmtri\\onedrive\\desktop\\prg 650\\lab 3 - customer maintenance\\customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A777D3DC-4AF7-49BC-8308-9A9A555F9FF6}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddCustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddCustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.Designer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.Designer.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:33:12.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.cs [Design]",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:17:19.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\Customer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\Customer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:40:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomers.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmCustomers.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmCustomers.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:12:16.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:51:13.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerList.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\CustomerList.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\CustomerList.cs",
+              "ToolTip": "C:\\Users\\jmtri\\OneDrive\\Desktop\\PRG 650\\Lab 3 - Customer Maintenance\\CustomerMaintenance\\CustomerList.cs",
+              "RelativeToolTip": "CustomerMaintenance\\CustomerList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:20:04.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

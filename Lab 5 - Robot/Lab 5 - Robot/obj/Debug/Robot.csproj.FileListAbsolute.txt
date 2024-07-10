@@ -1,0 +1,20 @@
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.exe.config
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.exe
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.pdb
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab_5___Robot.Form1.resources
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab_5___Robot.Properties.Resources.resources
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab 5 - Robot.exe
+C:\Users\jmtri\OneDrive\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab 5 - Robot.pdb
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.exe.config
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.exe
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\bin\Debug\Lab 5 - Robot.pdb
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab_5___Robot.Form1.resources
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab_5___Robot.Properties.Resources.resources
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab 5 - Robot.exe
+C:\Users\jmtri\Desktop\PRG 650\Lab 5 - Robot\Lab 5 - Robot\obj\Debug\Lab 5 - Robot.pdb

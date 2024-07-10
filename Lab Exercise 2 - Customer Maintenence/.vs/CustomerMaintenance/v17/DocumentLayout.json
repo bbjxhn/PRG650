@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|e:\\prg 650\\lab exercise 2 - customer maintenence\\customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDF372-EDEB-4CF5-98FA-7A61638AC169}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCustomers.cs [Design]",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomers.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmCustomers.cs [Design]",
+              "RelativeToolTip": "CustomerMaintenance\\frmCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:58.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDB.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\CustomerDB.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\CustomerDB.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\CustomerDB.cs",
+              "RelativeToolTip": "CustomerMaintenance\\CustomerDB.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:06:41.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCustomers.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomers.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmCustomers.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmCustomers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:51:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\Validator.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\Validator.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\Validator.cs",
+              "RelativeToolTip": "CustomerMaintenance\\Validator.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:06:38.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddCustomer.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:22:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\Customer.cs",
+              "ToolTip": "E:\\PRG 650\\Lab Exercise 2 - Customer Maintenence\\CustomerMaintenance\\Customer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:17:07.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
