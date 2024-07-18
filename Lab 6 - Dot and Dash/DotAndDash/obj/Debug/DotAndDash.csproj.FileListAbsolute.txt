@@ -1,0 +1,7 @@
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\bin\Debug\DotAndDash.exe.config
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\bin\Debug\DotAndDash.exe
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\bin\Debug\DotAndDash.pdb
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\obj\Debug\DotAndDash.csproj.AssemblyReference.cache
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\obj\Debug\DotAndDash.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\obj\Debug\DotAndDash.exe
+C:\Users\jmtri\Desktop\PRG 650\Lab 6 - Dot and Dash\DotAndDash\obj\Debug\DotAndDash.pdb
