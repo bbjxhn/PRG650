@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\dotanddash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\dotanddash\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|solutionrelative:dotanddash\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|c:\\users\\jmtri\\desktop\\prg 650\\lab 6 - dot and dash\\dotanddash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|solutionrelative:dotanddash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|c:\\users\\jmtri\\desktop\\prg 650\\lab 6 - dot and dash\\dotanddash\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\dotanddash\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|solutionrelative:dotanddash\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|c:\\users\\jmtri\\desktop\\prg 650\\lab 6 - dot and dash\\dotanddash\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19D2082C-F0DF-4825-8478-5A8D4C8AB712}|DotAndDash\\DotAndDash.csproj|solutionrelative:dotanddash\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dash.cs",
               "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Dash.cs",
               "RelativeDocumentMoniker": "DotAndDash\\Dash.cs",
               "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Dash.cs",
               "RelativeToolTip": "DotAndDash\\Dash.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T01:36:41.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dot.cs",
               "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Dot.cs",
               "RelativeDocumentMoniker": "DotAndDash\\Dot.cs",
               "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Dot.cs",
               "RelativeToolTip": "DotAndDash\\Dot.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDIAAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T01:20:06.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Program.cs",
               "RelativeDocumentMoniker": "DotAndDash\\Program.cs",
               "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Lab 6 - Dot and Dash\\DotAndDash\\Program.cs",
               "RelativeToolTip": "DotAndDash\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAUwEAAAABCAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T01:18:55.961Z",
               "EditorCaption": ""

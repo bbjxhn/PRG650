@@ -19,20 +19,18 @@ namespace DotAndDash
                 {
                     if (cancellationToken.IsCancellationRequested)
                     {
-                        Console.WriteLine("Dash operation canceled.");
                         break;
                     }
 
-                    manualResetEvent.WaitOne(); // Wait indefinitely for the event to be set
+                    manualResetEvent.WaitOne(); 
 
                     if (cancellationToken.IsCancellationRequested)
                     {
-                        Console.WriteLine("Dash operation canceled.");
                         break;
                     }
 
                     Console.Write("-");
-                    Thread.Sleep(3000); // Sleep for 3 seconds
+                    Thread.Sleep(3000);
                 }
             }
             catch (ThreadInterruptedException)

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\final project\\productserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|solutionrelative:final project\\productserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\client\\productserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|solutionrelative:client\\productserverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|solutionrelative:Final Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\final project\\productdatachange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAA0946-8A83-4B42-B378-24FAF6B5AD03}|Final Project\\Server.csproj|solutionrelative:final project\\productdatachange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|c:\\users\\jmtri\\desktop\\prg 650\\final project\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9035AB5-B452-4819-B91C-14C1AF46F9C2}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\ProductServerHandler.cs",
+              "RelativeDocumentMoniker": "Client\\ProductServerHandler.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\ProductServerHandler.cs",
+              "RelativeToolTip": "Client\\ProductServerHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:14:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:12:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:11:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDataChange.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\ProductDataChange.cs",
+              "RelativeDocumentMoniker": "Final Project\\ProductDataChange.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\ProductDataChange.cs",
+              "RelativeToolTip": "Final Project\\ProductDataChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:10:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServer.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\ProductServer.cs",
+              "RelativeDocumentMoniker": "Final Project\\ProductServer.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\ProductServer.cs",
+              "RelativeToolTip": "Final Project\\ProductServer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:39:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:28:40.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\Program.cs",
+              "RelativeDocumentMoniker": "Final Project\\Program.cs",
+              "ToolTip": "C:\\Users\\jmtri\\Desktop\\PRG 650\\Final Project\\Final Project\\Program.cs",
+              "RelativeToolTip": "Final Project\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:28:11.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

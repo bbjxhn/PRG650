@@ -30,7 +30,7 @@ namespace DotAndDash
                         break;
                     }
 
-                    _manualResetEvent.WaitOne(); // Wait indefinitely for the event to be set
+                    _manualResetEvent.WaitOne(); 
 
                     if (_cancellationToken.IsCancellationRequested)
                     {
@@ -39,7 +39,7 @@ namespace DotAndDash
                     }
 
                     Console.Write(".");
-                    Thread.Sleep(3000); // Sleep for 3 seconds
+                    Thread.Sleep(3000); 
                 }
             }
             catch (ThreadInterruptedException)

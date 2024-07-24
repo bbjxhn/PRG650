@@ -17,17 +17,19 @@ namespace DotAndDash
 
             var dot = new Dot(cts.Token, mre1);
 
-            // Start ShowDot in a separate foreground thread
             var dotThread = new Thread(dot.ShowDot);
-            dotThread.IsBackground = false; // Ensure it's a foreground thread
+            dotThread.IsBackground = false; 
             dotThread.Start();
 
             var dash = new Dash();
 
-            // Start ShowDash using a thread pool thread
             ThreadPool.QueueUserWorkItem(_ => dash.ShowDash((cts.Token, mre2)));
 
-            Console.WriteLine("Press 'a' to set dot event, 's' to reset dot event, 'z' to set dash event, 'x' to reset dash event, 'q' to quit.");
+            Console.Write("Press a to set the Dot manual reset event");
+            Console.Write("\nPress s to reset the Dot manual reset event");
+            Console.Write("\nPress z to set the Dash manual reset event");
+            Console.Write("\nPress x to reset the Dash manual reset event");
+            Console.Write("\nPress q to quit\n\n");
 
             while (true)
             {
@@ -36,27 +38,28 @@ namespace DotAndDash
                 if (key == ConsoleKey.A)
                 {
                     mre1.Set();
-                    Console.WriteLine("Dot event set.");
+                    Console.WriteLine("a");
                 }
                 else if (key == ConsoleKey.S)
                 {
                     mre1.Reset();
-                    Console.WriteLine("Dot event reset.");
+                    Console.WriteLine("s");
                 }
                 else if (key == ConsoleKey.Z)
                 {
                     mre2.Set();
-                    Console.WriteLine("Dash event set.");
+                    Console.WriteLine("z");
                 }
                 else if (key == ConsoleKey.X)
                 {
                     mre2.Reset();
-                    Console.WriteLine("Dash event reset.");
+                    Console.WriteLine("x");
                 }
                 else if (key == ConsoleKey.Q)
                 {
                     cts.Cancel();
-                    Console.WriteLine("Quitting...");
+                    Console.WriteLine("q");
+                    Console.WriteLine("Quitting Application");
                     break;
                 }
             }

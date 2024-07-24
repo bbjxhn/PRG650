@@ -1,0 +1,9 @@
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\bin\Debug\Client.exe.config
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\bin\Debug\Client.exe
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\bin\Debug\Client.pdb
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.exe
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.pdb
