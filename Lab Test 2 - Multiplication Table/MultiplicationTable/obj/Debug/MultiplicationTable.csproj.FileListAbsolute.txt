@@ -1,0 +1,7 @@
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\jmtri\Desktop\PRG 650\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
