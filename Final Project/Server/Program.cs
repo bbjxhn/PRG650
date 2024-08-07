@@ -13,9 +13,8 @@ namespace Final_Project
     {
         static void Main(string[] args)
         {
-            ProductServer server = new ProductServer(12345);
-            Console.WriteLine("Server is running...");
-            while (true) ;
+            ProductServer server = new ProductServer();
+            server.StartServer();
         }
     }
 }

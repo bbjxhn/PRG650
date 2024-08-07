@@ -7,3 +7,5 @@ C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.csproj.Gene
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.exe
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.pdb
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.ProductClientForm.resources
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Client\obj\Debug\Client.SetHostForm.resources

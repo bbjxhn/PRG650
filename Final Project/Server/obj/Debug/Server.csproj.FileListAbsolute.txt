@@ -5,3 +5,10 @@ C:\Users\jmtri\Desktop\PRG 650\Final Project\Final Project\obj\Debug\Server.cspr
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Final Project\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Final Project\obj\Debug\Final Project.exe
 C:\Users\jmtri\Desktop\PRG 650\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\bin\Debug\Final Project.exe.config
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\bin\Debug\Final Project.exe
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\bin\Debug\Final Project.pdb
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\obj\Debug\Final Project.exe
+C:\Users\jmtri\Desktop\PRG 650\Final Project\Server\obj\Debug\Final Project.pdb
